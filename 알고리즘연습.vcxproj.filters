@@ -75,5 +75,8 @@
     <ClCompile Include="sw_터미널.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="sw_간단한 소인수분해.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
