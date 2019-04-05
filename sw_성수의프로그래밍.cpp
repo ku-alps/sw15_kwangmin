@@ -5,7 +5,7 @@ using namespace std;
 
 double result = 0;
 
-void go(int m, double a) {
+void go(int m, double a) { //계산하는 함수
 	result = (a + m) / 2;
 }
 int main() {
@@ -17,7 +17,7 @@ int main() {
 		for (int j = 0; j < n; j++) {
 			cin >> v[j];
 		}
-		sort(v.begin(), v.end(),greater<int>());
+		sort(v.begin(), v.end(),greater<int>()); //내림차순 정렬
 		vector<int> v2(k);
 		for (int z = 0; z < k; z++) {
 			v2[z] = v[z];

@@ -17,7 +17,7 @@ int main() {
 			result += count[j];
 		}
 		int z=0, k=0, l = 0,count1=0,count2=0;
-		cout << "#" << i + 1 << " ";
+		cout << "#" << i + 1 << endl;
 		while (result--) {
 			arr[z][k] = alpha[l];
 			k++;
