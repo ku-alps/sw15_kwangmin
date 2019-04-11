@@ -22,6 +22,12 @@
     <Filter Include="소스 파일\SW Expert Academy">
       <UniqueIdentifier>{ae841700-b99f-4119-b676-042771a11c34}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\codeforces">
+      <UniqueIdentifier>{21512727-0f9b-47ef-829a-794e186da064}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\알프스\3번째">
+      <UniqueIdentifier>{18fc32b5-edda-4199-859a-bf05602a1838}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="알고연.cpp">
@@ -98,6 +104,24 @@
     </ClCompile>
     <ClCompile Include="D2_숫자배열회전.cpp">
       <Filter>소스 파일\SW Expert Academy</Filter>
+    </ClCompile>
+    <ClCompile Include="189A.cpp">
+      <Filter>소스 파일\codeforces</Filter>
+    </ClCompile>
+    <ClCompile Include="445A.cpp">
+      <Filter>소스 파일\codeforces</Filter>
+    </ClCompile>
+    <ClCompile Include="숫자야구.cpp">
+      <Filter>소스 파일\알프스\3번째</Filter>
+    </ClCompile>
+    <ClCompile Include="치킨배달.cpp">
+      <Filter>소스 파일\알프스\3번째</Filter>
+    </ClCompile>
+    <ClCompile Include="조세퍼스.cpp">
+      <Filter>소스 파일\알프스\3번째</Filter>
+    </ClCompile>
+    <ClCompile Include="괄호.cpp">
+      <Filter>소스 파일\알프스\3번째</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
