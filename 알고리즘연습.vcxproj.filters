@@ -28,6 +28,9 @@
     <Filter Include="소스 파일\알프스\3번째">
       <UniqueIdentifier>{18fc32b5-edda-4199-859a-bf05602a1838}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\네이버">
+      <UniqueIdentifier>{3752035e-4e9c-4cd4-a4d3-d284ea5eafee}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="알고연.cpp">
@@ -122,6 +125,18 @@
     </ClCompile>
     <ClCompile Include="괄호.cpp">
       <Filter>소스 파일\알프스\3번째</Filter>
+    </ClCompile>
+    <ClCompile Include="naver.cpp">
+      <Filter>소스 파일\네이버</Filter>
+    </ClCompile>
+    <ClCompile Include="tree문제.cpp">
+      <Filter>소스 파일\네이버</Filter>
+    </ClCompile>
+    <ClCompile Include="2806N-queen.cpp">
+      <Filter>소스 파일\SW Expert Academy</Filter>
+    </ClCompile>
+    <ClCompile Include="7466팩토리얼과 최대공약수.cpp">
+      <Filter>소스 파일\SW Expert Academy</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
